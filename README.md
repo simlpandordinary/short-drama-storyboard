@@ -21,21 +21,21 @@
 ├── README.upstream.md
 ├── SKILL.md
 ├── references/
-├── blocking-playbooks.md
-├── comic-keyframe-lexicon.md
-├── coverage-audition.md
-├── fight-craft.md
-├── keyframe-craft.md
-├── lighting-craft.md
-├── production-shot-grammar.md
-├── review-and-fixtures.md
-├── scene-visual-plan.md
-├── screenplay-to-keyframe-example.md
-├── shot-craft.md
-├── shot-revision-identity.md
-└── stage-contract.md
+│   ├── blocking-playbooks.md
+│   ├── comic-keyframe-lexicon.md
+│   ├── coverage-audition.md
+│   ├── fight-craft.md
+│   ├── keyframe-craft.md
+│   ├── lighting-craft.md
+│   ├── production-shot-grammar.md
+│   ├── review-and-fixtures.md
+│   ├── scene-visual-plan.md
+│   ├── screenplay-to-keyframe-example.md
+│   ├── shot-craft.md
+│   ├── shot-revision-identity.md
+│   └── stage-contract.md
 └── agents/
-└── openai.yaml
+    └── openai.yaml
 ```
 
 - `SKILL.md` 是技能入口（触发条件 / 工作流 / 约束），安装时必须位于技能根目录。
